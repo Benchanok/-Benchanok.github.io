@@ -1,0 +1,34 @@
+---
+layout: post
+title: Welcome to  สุนัขพันธุ์ตัวเล็ก Blog.
+date: 2017-08-30 11.47 +0700
+categories: My Blog
+---
+
+# สุนัขพันุ์ชิวาวา
+## สีขาวแต่หุสีน้ำตาล
+### ตาสีน้ำตาล
+#### ขาสั้น
+##### เพศเมีย
+###### หูขนาดใหญ่
+[I'm an inline-style link](https://www.google.com)
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+var s = "JavaScript syntax highlighting";
+alert(s);
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
